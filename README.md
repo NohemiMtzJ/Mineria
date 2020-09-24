@@ -1,5 +1,5 @@
 # Mineria
-## Grupo 002  Matrícula 1805800 
+## Grupo 002        Matrícula 1805800 
 
 ## Fase I
 
