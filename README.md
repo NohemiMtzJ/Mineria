@@ -15,6 +15,6 @@
 
 [Ejercicios II]()
 
-[Mapa Mental II]()
+[Mapa Mental II](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/MapaMental_2_1805800.pdf)
 
 [Resúmenes]()
