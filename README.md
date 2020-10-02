@@ -1,4 +1,4 @@
-# Mineria
+# Minería de Datos
 ## Grupo 002        Matrícula 1805800 
 
 ## Fase I
