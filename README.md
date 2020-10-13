@@ -18,3 +18,9 @@
 [Mapa Mental II](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/MapaMental_2_1805800.pdf)
 
 [Resúmenes](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/Res%C3%BAmenes_1805800.pdf) 
+
+
+## Fase I
+
+
+[Ejercicio Bases de Datos]()
