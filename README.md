@@ -23,4 +23,4 @@
 ## Fase II
 
 
-[Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/EjercicioBasesDeDatos_1805800.pdf)
+[Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/An%C3%A1lisisBD_1805800.pdf)
