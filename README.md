@@ -20,7 +20,7 @@
 [Resúmenes](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/Res%C3%BAmenes_1805800.pdf) 
 
 
-## Fase I
+## Fase II
 
 
-[Ejercicio Bases de Datos]()
+[Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/EjercicioBasesDeDatos_1805800.pdf)
