@@ -6,9 +6,9 @@
 
 [Mapa Mental I](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/MapaMental_1_1805800.pdf)
 
-[Presentación de técnicas de Minería](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
-[Ejercicio de visualización de datos PDF](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejemplo_Visualizaci%C3%B3n%20de%20datos_002.pdf)
-[Ejercicio de visualización de datos PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Visualizaci%C3%B3n.ipynb)
+- [Presentación de técnicas de Minería](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Presentacion_Visualizacion%20de%20datos_002.pdf)
+- [Ejercicio de visualización de datos PDF](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejemplo_Visualizaci%C3%B3n%20de%20datos_002.pdf)
+- [Ejercicio de visualización de datos PYTHON](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Visualizaci%C3%B3n.ipynb)
 
 
 [Ejercicios I](https://github.com/PilarAbigailMendozaAlvarez/Mineria-de-Datos-Agosto-2020---Enero-2021/blob/master/Ejercicios1_Visualizaci%C3%B3n%20de%20datos_002.pdf)
@@ -24,3 +24,4 @@
 
 
 [Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/An%C3%A1lisisBD_1805800.pdf)
+[Ejercicio de Python Básicos]()
