@@ -25,4 +25,4 @@
 
 [Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/An%C3%A1lisisBD_1805800.pdf)
 
-[Ejercicio de Python Básicos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/Ejercicios%20b%C3%A1sicos%20Python%20.ipynb)
+[Ejercicio de Python Básicos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/PythonBasico_1805800.ipynb)
