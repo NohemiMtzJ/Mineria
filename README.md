@@ -26,3 +26,5 @@
 [Ejercicio Bases de Datos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/An%C3%A1lisisBD_1805800.pdf)
 
 [Ejercicio de Python Básicos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/PythonBasico_1805800.ipynb)
+
+[Avance1-PIA](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
