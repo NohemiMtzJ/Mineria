@@ -28,3 +28,5 @@
 [Ejercicio de Python Básicos](https://github.com/NohemiMtzJ/Mineria_De_Datos/blob/master/PythonBasico_1805800.ipynb)
 
 [Avance I Proyecto Integrador](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Avance1-PIA_3_002.pdf)
+[P1 Preparación de Datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/Preparaci%C3%B3n%20de%20datos_3_002.ipynb)
+[P2 Visualización de Datos]()
