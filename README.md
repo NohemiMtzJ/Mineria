@@ -32,3 +32,10 @@
 [P1 Manipulación de Datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P1-Manipulaci%C3%B3n%20de%20datos_3_002.ipynb)
 
 [P2 Visualización de Datos](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/P2%20Visualizaci%C3%B3n%20de%20datos_03_002.ipynb)
+
+
+## Fase III
+
+
+[Avance II Proyecto Integrador](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AvancePIA_ll_002_3.ipynb)
+
