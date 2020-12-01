@@ -39,3 +39,5 @@
 
 [Avance II Proyecto Integrador](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/AvancePIA_ll_002_3.ipynb)
 
+[Proyecto Integrador Equipo 03](https://github.com/TaniaRossel/Mineria-de-datos/blob/master/PIA_3_002.pdf)
+
